@@ -33,6 +33,8 @@ For classification tasks, **LazyPredict** includes the following models:
 18. **ExtraTrees Classifier**
 19. **HistGradientBoosting Classifier**
 
+more...
+
 These models are run with default settings, and **LazyPredict** provides the output in the form of performance metrics (like accuracy, ROC-AUC, and F1 score) for each algorithm, helping you identify which model performs the best.
 
 You can use **LazyPredict** with the following code snippet:
