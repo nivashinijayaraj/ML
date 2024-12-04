@@ -46,4 +46,8 @@ models, predictions = clf.fit(X_train, y_train)
 print(models)
 ```
 
+
+![image](https://github.com/user-attachments/assets/910e1f46-4c50-4d80-8174-af0c4646d865)
+
+
 This will display the evaluation results for each of the models listed above, so you can easily compare their performance.
